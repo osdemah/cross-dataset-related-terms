@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-*.txt
-*.csv
-*.nt
 data
+.idea
+.DS_Store
